@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💡 I'm a software engineer intern, student
+- 💡 I'm a software intern, student
 - 🔭 I’m currently creating apps using Flutter and Dart.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaPai20&theme=radical)](https://github.com/AishwaryaPai20/github-readme-stats)
