@@ -1,6 +1,6 @@
 ### Hey, I'm Aishwarya👋
 
-![1653036064607](https://user-images.githubusercontent.com/60896791/182295287-4ebd9f62-77d2-4fef-b083-35dd9e5f8667.jpg)
+![Profile](https://github.com/AishwaryaPai20/AishwaryaPai20/blob/main/Purple%20and%20Blue%20Gradient%20Memphis%20Live%20Stream%20Linkedin%20Banner.png)
 
 <a href="https://github.com/AishwaryaPai20/github-readme-streak-stats">
 
