@@ -11,4 +11,5 @@
  
 - 🐧 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashpi20/)
 - 📫 Email me at aishwaryampai200203@gmail.com for any inquiries.
-- ✍️ Check out my [Medium](https://medium.com/@aishwaryampai200203) profile where I write some articles.
+- 👤 Check out my [Portfolio Website](https://portfolioashpi.super.site/)
+- ✍️ Here are some blogs on [Medium](https://medium.com/@aishwaryampai200203)
