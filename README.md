@@ -1,6 +1,10 @@
 ### Hey, I'm Aishwarya👋
 
 ![Profile](https://github.com/AishwaryaPai20/AishwaryaPai20/blob/main/Purple%20and%20Blue%20Gradient%20Memphis%20Live%20Stream%20Linkedin%20Banner.png)
+ 
+I am a software developer with a passion for data science. I'm thrilled to be an incoming summer intern at Barclays, and I've previously gained valuable experience at Samsung Prism Research Internship.
+
+I've always been fascinated by the insights that can be drawn from complex datasets, and I'm committed to staying up to date with the latest trends and techniques in data science. My background in software development has given me a strong foundation in manipulating and working with data effectively.
 
 <a href="https://github.com/AishwaryaPai20/github-readme-streak-stats">
 
